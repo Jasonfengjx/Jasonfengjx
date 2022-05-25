@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jasonfengjx
 - 👀 I’m interested in BigData
 - 🌱 I’m currently learning SE,ML,DL,DM.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on NLP.
 - 📫 How to reach me 1264512262@qq.com
 
 <!---
