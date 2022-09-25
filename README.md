@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
- - 👋 Hi, I’m @Jason(fengjiuxin)
+- 👋 Hi, I’m @Jason(fengjiuxin)
 - 👀 I’m interested in ML in bioinformatics
 - 🌱 I’m currently learning DeepLearning.
 - 💞️ I’m looking to collaborate on NLP.
-- 📫 How to reach me 1264512262@qq.com
+- 📫 How to reach me 1264512262@qq.com.
+- - 💬 Ask me about vue,springboot,nlp.
 - ⚽️ I like computer games.A new player of Hungry, king rank of Honor Of Kings.
 
 
