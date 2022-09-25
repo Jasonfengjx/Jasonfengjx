@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DeepLearning.
 - 💞️ I’m looking to collaborate on NLP.
 - 📫 How to reach me 1264512262@qq.com
+- ⚽️ I like games.A new player of Hungry, king rank of Honor Of Kings.
 
 <!---
 Jasonfengjx/Jasonfengjx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
