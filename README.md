@@ -1,5 +1,5 @@
 
-![](https://s1.ax1x.com/2022/03/22/qKdz8A.png)
+<!--![](https://s1.ax1x.com/2022/03/22/qKdz8A.png)-->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
