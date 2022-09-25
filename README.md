@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DeepLearning.
 - 💞️ I’m looking to collaborate on NLP.
 - 📫 How to reach me 1264512262@qq.com.
-- - 💬 Ask me about vue,springboot,nlp.
+- 💬 Ask me about vue,springboot,nlp.
 - ⚽️ I like computer games.A new player of Hungry, king rank of Honor Of Kings.
 
 
