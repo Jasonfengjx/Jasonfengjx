@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 - 👋 Hi, I’m @Jason(fengjiuxin)
-- 👀 I’m interested in ML in bioinformatics
-- 🌱 I’m currently learning DeepLearning.
-- 💞️ I’m looking to collaborate on NLP.
+- 👀 I’m interested in AI for Science, bioinformatics.
+- 🌱 I’m currently learning DL, ML.
 - 📫 How to reach me 1264512262@qq.com.
-- 💬 Ask me about vue,springboot,nlp.
-- ⚽️ I like computer games.A new player of Hungry, king rank of Honor Of Kings.
+- ⚽️ I like computer games. A new player of Hungry, king rank of Honor Of Kings, the star of Yuanmeng.
 
 
 | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jasonfengjx)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonfengjx&hide=c,assembly,logos,makefile,VHDL,cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
