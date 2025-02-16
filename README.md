@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-- 👋 Hi, I’m @Jason(fengjiuxin)
-- 👀 I’m interested in AI for Science, bioinformatics.
-- 🌱 I’m currently learning DL, ML.
-- 📫 How to reach me 1264512262@qq.com.
-- ⚽️ I like computer games. A new player of Hungry, king rank of Honor Of Kings, the star of Yuanmeng.
+- 👋 Hi, I’m Jason (Fengjiuxin). Feel free to reach out to me at 1264512262@qq.com!
+- 👀 I’m passionate about LLMs, multimodal ai and AI for bioinformatics(HiC&CellPainting), and I’m currently deepening my knowledge in LLMs, DL, and ML.
+- ⚽️ I enjoy sports, reading, and gaming.
+- 🎮 I’m a player of Mount & Blade II: Bannerlord and Hungry.
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonfengjx&hide=c,assembly,makefile,VHDL,cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
