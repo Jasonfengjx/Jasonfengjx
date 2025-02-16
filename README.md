@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 - 👋 Hi, I’m Jason (Fengjiuxin). Feel free to reach out to me at 1264512262@qq.com!
-- 👀 I’m passionate about LLMs, multimodal ai and AI for bioinformatics(HiC&CellPainting), and I’m currently deepening my knowledge in LLMs, DL, and ML.
+- 👀 I’m passionate about LLMs, multimodal AI and AI for bioinformatics(HiC&CellPainting), and I’m currently deepening my knowledge in LLMs, DL, and ML.
 - ⚽️ I enjoy sports, reading, and gaming.
 - 🎮 I’m a player of Mount & Blade II: Bannerlord and Hungry.
 
