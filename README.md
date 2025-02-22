@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 👀 I’m passionate about LLMs, multimodal AI and AI for bioinformatics(HiC&CellPainting), and I’m currently deepening my knowledge in LLMs, DL, and ML.
 - ⚽️ I enjoy sports, reading, and gaming.
 - 🎮 I’m a player of Mount & Blade II: Bannerlord and Hungry.
+- 🌐 Visit https://jasonfengjx.github.io/ to learn more about me! 🚀
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonfengjx&hide=c,assembly,makefile,VHDL,cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
